@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as c,c as e}from"./app-Ciu3P-SA.js";const t={},r={src:"/imagenes/LogoMeraki.png",alt:"logo",class:"block h-52 w-auto fill-current text-gray-800"};function n(s,a){return c(),e("img",r)}const l=o(t,[["render",n]]);export{l as A};
